@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>-->
   <img src="https://media.giphy.com/media/MFVPQpjMlIGWOgxRms/giphy.gif" width="500"/>
+   <img src="https://media.giphy.com/media/JAO85KL0A7sIw/giphy.gif" width="500"/>
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">

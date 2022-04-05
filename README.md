@@ -25,3 +25,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
 </div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ExoticDuck&style=flat-square&color=blue" alt=""/>
+</div>

@@ -33,8 +33,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
+
 ### :man_technologist: About me: I am a Front End Developer from Belarus.
+
 - :telescope: I’m studing React and building web applications.
 
 - :zap: In my free time, I solve tasks on Code Wars and read tech articles.
